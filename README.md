@@ -1,31 +1,39 @@
-# Fire-types-classification.
-🔥 Fire Type Classification in India using MODIS Satellite Data
-Internship Project under Edunet Foundation – Shell Skills4Future (Green Skills & AI)
+# 🔥 Fire Types Classification in India using MODIS Satellite Data
 
-📌 Objective
-To classify different fire types in India using MODIS satellite data (2021–2023) by applying machine learning techniques. This supports environmental sustainability by enabling better fire detection and analysis.
+Internship Project under **Edunet Foundation – Shell Skills4Future (Green Skills & AI)**
 
-📊 Tasks Performed
-Loaded and merged MODIS fire datasets
+## 📌 Objective
+To classify different fire types in India using MODIS satellite data (2021–2023) by applying machine learning techniques.  
+This supports environmental sustainability by enabling better fire detection and analysis.
 
-Cleaned and preprocessed the data
+---
 
-Conducted Exploratory Data Analysis (EDA):
-Fire type distribution
+## 📊 Tasks Performed
 
-Brightness, confidence, FRP, and temporal trends
+### ✅ Week 1:
+- Loaded and merged MODIS fire datasets
+- Cleaned and preprocessed the data
 
-Built and evaluated classification models:
+### ✅ Week 2:
+- Conducted Exploratory Data Analysis (EDA):
+  - Fire type distribution
+  - Brightness, confidence, FRP, and temporal trends
+- Started building classification models
 
-Logistic Regression
+### 🧠 Models Implemented:
+- Logistic Regression
+- Decision Tree
+- Random Forest
 
-Decision Tree
+### 📈 Evaluation:
+- Accuracy Scores
+- Confusion Matrices
 
-Random Forest
+---
 
-Assessed model performance using accuracy scores and confusion matrices
+## ✅ Status
+Project ongoing — Week 2 complete.  
+Notebooks and datasets are uploaded in this repository.
 
-✅ Status
-Project initialized, data loaded, analysis and classification models implemented.
 
 
