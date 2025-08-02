@@ -1,39 +1,48 @@
-# 🔥 Fire Types Classification in India using MODIS Satellite Data
+🔥 Fire Type Classification in India Using MODIS Satellite Data (2021–2023)
+📌 Project Overview
+Every year, India faces multiple fire incidents—from forest fires and crop burning to industrial and volcanic hotspots. Accurate classification of these fires is essential for environmental monitoring and disaster management.
 
-Internship Project under **Edunet Foundation – Shell Skills4Future (Green Skills & AI)**
+This project uses NASA’s MODIS satellite data to classify fire types across India from 2021 to 2023, applying machine learning models to improve situational awareness and decision-making.
 
-## 📌 Objective
-To classify different fire types in India using MODIS satellite data (2021–2023) by applying machine learning techniques.  
-This supports environmental sustainability by enabling better fire detection and analysis.
+🎯 Objective
+To build a classification model that predicts the type of fire (vegetation, volcano, static, offshore) based on MODIS thermal anomaly data.
 
----
+📊 Dataset
+Source: NASA FIRMS (Fire Information for Resource Management System)
+Sensor: MODIS (Terra and Aqua satellites)
 
-## 📊 Tasks Performed
+Resolution: 1 km
 
-### ✅ Week 1:
-- Loaded and merged MODIS fire datasets
-- Cleaned and preprocessed the data
+Key Features Used:
 
-### ✅ Week 2:
-- Conducted Exploratory Data Analysis (EDA):
-  - Fire type distribution
-  - Brightness, confidence, FRP, and temporal trends
-- Started building classification models
+Latitude, Longitude
 
-### 🧠 Models Implemented:
-- Logistic Regression
-- Decision Tree
-- Random Forest
+Brightness, Scan, Track
 
-### 📈 Evaluation:
-- Accuracy Scores
-- Confusion Matrices
+Satellite ID, Confidence Score
 
----
+Day/Night Flag, Version, Type (target label)
+⚙️ Tools & Technologies
+Google Colab (Python)
 
-## ✅ Status
-Project ongoing — Week 2 complete.  
-Notebooks and datasets are uploaded in this repository.
+Scikit-learn
 
+Pandas, Matplotlib
 
+Jupyter Notebook
 
+GitHub + Google Drive
+
+🔍 ML Workflow
+Data Cleaning
+
+Feature Selection & Label Mapping
+
+Model Training (Decision Tree, Random Forest, etc.)
+
+Evaluation (Accuracy, Confusion Matrix)
+
+Fire Type Prediction
+
+📁 Files Included
+https://colab.research.google.com/drive/1FwneS-fdvhHiInvOEA-10EB9AwTTlLXS?usp=drive_link
