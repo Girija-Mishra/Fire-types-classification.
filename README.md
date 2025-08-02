@@ -47,4 +47,4 @@ Evaluation (Accuracy, Confusion Matrix)
 Fire Type Prediction
 
 📁 Files Included
-https://colab.research.google.com/drive/1FwneS-fdvhHiInvOEA-10EB9AwTTlLXS?usp=drive_link
+https://colab.research.google.com/drive/1FwneS-fdvhHiInvOEA-10EB9AwTTlLXS?usp=sharing
